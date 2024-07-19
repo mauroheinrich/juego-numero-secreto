@@ -1,6 +1,9 @@
 # Juego del Número Secreto
 
 Este es un juego simple en JavaScript donde el usuario debe adivinar un número secreto generado aleatoriamente por el programa. El usuario ingresa un número y el programa le indica si el número secreto es mayor, menor o si ha acertado.
+## Despliegue
+
+Puedes probar el juego en vivo en el siguiente enlace: [Juego del Número Secreto](https://mauroheinrich.github.io/juego-numero-secreto/)
 
 ## Estructura del Proyecto
 
